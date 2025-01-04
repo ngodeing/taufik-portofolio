@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Co-founder & Software Engineer at SynKode",
+      "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721355444/teke9xmw8cvtpddwabwm.png",
+      "description": "Developed multiple website and mobile application projects resulting in increased user engagement by 30%",
+      "startDate": "2023-02-15",
+      "endDate": "2026-07-20"
+    },
+    {
+      "title": "Software Developer at Wangkal Priority",
+      "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721355580/gq8jel4o4b1w3dsyqjpu.jpg",
+      "description": "Developed a barcode label printer management application that increased printing efficiency by 30%",
+      "startDate": "2023-07-10",
+      "endDate": "2023-11-10"
+    },
+    {
+      "title": "Core Team Academy at GDSC UNNES",
+      "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721355947/ravstozi7ususwoli2jz.png",
+      "description": "Organized and coordinated seminar and study jam events, resulting in a 20% increase in attendee participation.",
+      "startDate": "2023-07-10",
+      "endDate": "2024-07-20"
+    },
+    {
+      "title": "Expert Staff PTI at UKM RIPTEK UNNES",
+      "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721356240/h277dhdkxjfpbmytuf68.png",
+      "description": "Organized and facilitated Training Corner and Study Together events, resulting in a 20% increase in employee engagement.",
+      "startDate": "2023-02-20",
+      "endDate": "2023-12-12"
+    }
+  ]
+  

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "LKTIM Dashboard",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353442/mqwhlucatsrlo9nzcw4t.png",
+    "description": "Creating a dashboard website for judges to evaluate student scientific paper competitions. I designed user interfaces, integrating evaluation criteria, and implementing secure user authentication.",
+    "startDate": "2024-06-01",
+    "endDate": "2024-07-15",
+    "link": "https://admin-lktim-2024.vercel.app/"
+  },
+  {
+    "title": "Brain Essay App",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353669/rlqqxvcm5hnr5galilff.png",
+    "description": "Creating an automatic essay scoring application using text generative AI for the Lomba Inovasi Digital Mahasiswa 2024 Competition, I developed the application's architecture, implemented the AI model integration for essay evaluation, and designed the user interface for seamless interaction.",
+    "startDate": "2024-05-20",
+    "endDate": "2024-06-13",
+    "link": "https://drive.google.com/drive/folders/1eY1SgOSNO1EBRKcgFA20bq5_6gYz8eqL?usp=sharing"
+  },
+  {
+    "title": "Raheela Pemuda Langit",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353881/gt4zgxo0bofwhnpg5xt6.png",
+    "description": "Developed and maintained the Raheela Pemuda Langit organization website, implementing design improvements, content updates, and functionality enhancements to optimize user experience and engagement.",
+    "startDate": "2023-10-11",
+    "endDate": "2023-11-20",
+    "link": "https://official-raheela-pemuda-langit.vercel.app"
+  },
+  {
+    "title": "Okines Arcade Game",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721354148/b8gazc63c49prwyj9kdr.png",
+    "description": "Developed an arcade game for Olimpiade Kimia UNNES 2023 using the GDevelop game engine.",
+    "startDate": "2023-07-01",
+    "endDate": "2023-10-20",
+    "link": "https://projects.taufiknurrohman.my.id/game/index.html"
+  },
+  {
+    "title": "Automatic Barcode Generator",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721354299/px6qnbrsgigjwvoukhkd.png",
+    "description": "Developed and launched an automatic barcode generator website, allowing users to generate barcodes 80% instantly",
+    "startDate": "2023-06-12",
+    "endDate": "2023-07-15",
+    "link": "https://barcode.taufiknurrohman.my.id/"
+  },
+  {
+    "title": "Zebra Printing Label",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721356901/xlbm0dx6m23j656oklif.png",
+    "description": "Developed and implemented a Windows Forms application for zebra label printing. I designed the user-friendly interface, and integrated zebra printer libraries. Achieved improvements in printing efficiency and accuracy.",
+    "startDate": "2023-06-12",
+    "endDate": "2023-07-15",
+    "link": "https://drive.google.com/file/d/1KL_670apFDMMIr_p9SKXCEbLBkRXKlHZ/view?usp=sharing"
+  },
+  {
+    "title": "Mimpi Kita App",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721469492/zyl4uzmd40snarnov87o.png",
+    "description": "Creating an crowd funding application using flutterflow framework for the Lomba Gemastik 2024 Competition, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-22",
+    "link": "https://drive.google.com/drive/folders/1-5SeJgG9ShC5wZRFWzFLpAG8HSSpR3tq?usp=sharing"
+  },
+  {
+    "title": "NoteIn App",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721360451/t6hp1nhwhivesecettqi.png",
+    "description": "Creating an task manager application using react native library, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
+    "startDate": "2023-10-2",
+    "endDate": "2023-11-15",
+    "link": "https://drive.google.com/drive/folders/1M9LLqEyPn4pbt4XH1Cxj1X64m7mrbTU_?usp=sharing"
+  }
+]

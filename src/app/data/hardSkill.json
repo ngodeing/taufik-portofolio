@@ -1,0 +1,122 @@
+[
+  {
+    "title": "JavaScript",
+    "image": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
+    "description": "Proficient in JavaScript for both front-end and back-end development."
+  },
+  {
+    "title": "React.js",
+    "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
+    "description": "Experienced in building responsive web applications using React."
+  },
+  {
+    "title": "Next.js",
+    "image": "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000",
+    "description": "Skilled in developing server-rendered React applications with Next.js."
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
+    "description": "Adept at using Tailwind CSS for creating modern and responsive designs."
+  },
+  {
+    "title": "Node.js",
+    "image": "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000",
+    "description": "Experienced in building scalable back-end services with Node.js."
+  },
+  {
+    "title": "Vue.js",
+    "image": "https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000",
+    "description": "Proficient in Vue for efficiency and easily development."
+  },
+  {
+    "title": "HTML",
+    "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+    "description": "Proficient in HTML for creating structured web content."
+  },
+  {
+    "title": "CSS",
+    "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
+    "description": "Experienced in CSS for designing and styling web pages."
+  },
+  {
+    "title": "TypeScript",
+    "image": "https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000",
+    "description": "Skilled in TypeScript for strongly typed JavaScript development."
+  },
+  {
+    "title": "GitHub",
+    "image": "https://img.icons8.com/?size=100&id=62856&format=png&color=000000",
+    "description": "Skilled in using GitHub for version control and collaboration."
+  },
+  {
+    "title": "Git",
+    "image": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000",
+    "description": "Experienced with Git for source code management."
+  },
+  {
+    "title": "Sass",
+    "image": "https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000",
+    "description": "Proficient in Sass for advanced CSS preprocessing."
+  },
+  {
+    "title": "Bootstrap",
+    "image": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000",
+    "description": "Experienced in building responsive designs with Bootstrap."
+  },
+  {
+    "title": "PHP",
+    "image": "https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000",
+    "description": "Skilled in PHP for server-side scripting and web development."
+  },
+  {
+    "title": "Laravel",
+    "image": "https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000",
+    "description": "Experienced in developing web applications using Laravel framework."
+  },
+  {
+    "title": "MongoDB",
+    "image": "https://img.icons8.com/?size=100&id=74402&format=png&color=000000",
+    "description": "Proficient in MongoDB for NoSQL database management."
+  },
+  {
+    "title": "Firebase",
+    "image": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000",
+    "description": "Skilled in using Firebase for real-time database and authentication."
+  },
+  {
+    "title": "MySQL",
+    "image": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000",
+    "description": "Experienced in MySQL for relational database management."
+  },
+  {
+    "title": "Flutter",
+    "image": "https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000",
+    "description": "Skilled in using Flutter for cross-platform mobile app development."
+  },
+  {
+    "title": "FlutterFlow",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721358169/hg6jrccagiaxjekuczzq.png",
+    "description": "Experienced in FlutterFlow for visual app building."
+  },
+  {
+    "title": "Express.js",
+    "image": "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000",
+    "description": "Proficient in Express.js for building RESTful APIs with Node.js."
+  },
+  {
+    "title": "Notion",
+    "image": "https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000",
+    "description": "Skilled in using Notion for project management and documentation."
+  },
+  {
+    "title": "GDevelop",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721358888/ubxrdaol04fqnuhnjyja.png",
+    "description": "Experienced in using GDevelop for 2D game development."
+  },
+  {
+    "title": "React Native",
+    "image": "https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000",
+    "description": "Skilled in using React Native for cross-platform mobile app development."
+  }
+]
