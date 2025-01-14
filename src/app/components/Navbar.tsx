@@ -74,11 +74,11 @@ export default function Navbar() {
       </div>
 
       {isOpen && (
-        <ul className="lg:hidden flex flex-col space-y-4 mt-4">
+        <ul className="lg:hidden flex flex-col space-y-4 mt-4 py-3 rounded-xl bg-gray-800">
           {menuItems.map((item) => (
             <li
               key={item.name}
-              className="text-center py-2 border-b border-gray-700"
+              className="text-center py-2"
             >
               <Link
                 href={item.href}

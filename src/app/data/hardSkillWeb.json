@@ -90,16 +90,6 @@
     "description": "Experienced in MySQL for relational database management."
   },
   {
-    "title": "Flutter",
-    "image": "https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000",
-    "description": "Skilled in using Flutter for cross-platform mobile app development."
-  },
-  {
-    "title": "FlutterFlow",
-    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721358169/hg6jrccagiaxjekuczzq.png",
-    "description": "Experienced in FlutterFlow for visual app building."
-  },
-  {
     "title": "Express.js",
     "image": "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000",
     "description": "Proficient in Express.js for building RESTful APIs with Node.js."
@@ -108,15 +98,5 @@
     "title": "Notion",
     "image": "https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000",
     "description": "Skilled in using Notion for project management and documentation."
-  },
-  {
-    "title": "GDevelop",
-    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721358888/ubxrdaol04fqnuhnjyja.png",
-    "description": "Experienced in using GDevelop for 2D game development."
-  },
-  {
-    "title": "React Native",
-    "image": "https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000",
-    "description": "Skilled in using React Native for cross-platform mobile app development."
   }
 ]

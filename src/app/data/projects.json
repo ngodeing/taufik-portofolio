@@ -1,5 +1,53 @@
 [
   {
+    "title": "Inkterval Company Website",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736848695/wkcp0m5dbivwlvyzcopm.png",
+    "description": "I built a website for the Inkterval company, Inkterval is a company that operates in the arts sector, so I made this website as attractive as possible.",
+    "startDate": "2024-12-25",
+    "endDate": "2025-01-30",
+    "link": "https://inkterval.vercel.app/home"
+  },
+  {
+    "title": "SkyBound : Your Personal Career Recommendation",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736848149/vpdnykokszvvirrwkgmt.jpg",
+    "description": "In the final project at Bangkit Academy, I created a career recommendation application using generative AI created by time machine learning.",
+    "startDate": "2024-10-01",
+    "endDate": "2024-12-10",
+    "link": "https://github.com/ngodeing/skybound"
+  },
+  {
+    "title": "Star Access Customer App",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736847229/br0noeopd7zr8xd3bnhx.jpg",
+    "description": "Developing the Star Access Company application. This application was created to make it easier for customers to order home internet and monitor internet speed status.",
+    "startDate": "2024-10-02",
+    "endDate": "2025-08-01",
+    "link": "#"
+  },
+  {
+    "title": "LOGEE Registration",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736846635/n6vllc58mdhgz83qilxm.png",
+    "description": "In the 2024 Digistar Class program held by Telkom Indonesia, I created a final project, namely re-creating the LOGEE registration UI so that it looks minimalist and makes users comfortable viewing it.",
+    "startDate": "2024-08-07",
+    "endDate": "2024-09-22",
+    "link": "https://logee-regristation.vercel.app/home"
+  },
+  {
+    "title": "Proposalify",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736842770/w9kcqrcerpqhegxckccd.png",
+    "description": "Create a website for collecting proposals and their acceptance status to make it easier for students to submit proposals to lecturers.",
+    "startDate": "2024-07-10",
+    "endDate": "2024-10-22",
+    "link": "https://proposalify-eta.vercel.app"
+  },
+  {
+    "title": "Easy Score",
+    "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736842243/zpyq2sfykls2k31r0cjb.jpg",
+    "description": "Creating an optimized automatic essay scoring application using text generative AI for the Lomba DIMAS-TI Inovasi Teknologi Mutakhir Competition 2024, I developed the application's architecture, implemented the AI model integration for essay evaluation, and designed the user interface for seamless interaction.",
+    "startDate": "2024-12-08",
+    "endDate": "2024-12-20",
+    "link": "https://github.com/ngodeing/easy-score-app"
+  },
+  {
     "title": "LKTIM Dashboard",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353442/mqwhlucatsrlo9nzcw4t.png",
     "description": "Creating a dashboard website for judges to evaluate student scientific paper competitions. I designed user interfaces, integrating evaluation criteria, and implementing secure user authentication.",
@@ -13,7 +61,7 @@
     "description": "Creating an automatic essay scoring application using text generative AI for the Lomba Inovasi Digital Mahasiswa 2024 Competition, I developed the application's architecture, implemented the AI model integration for essay evaluation, and designed the user interface for seamless interaction.",
     "startDate": "2024-05-20",
     "endDate": "2024-06-13",
-    "link": "https://drive.google.com/drive/folders/1eY1SgOSNO1EBRKcgFA20bq5_6gYz8eqL?usp=sharing"
+    "link": "https://github.com/ngodeing/brain-essay"
   },
   {
     "title": "Raheela Pemuda Langit",
@@ -53,7 +101,7 @@
     "description": "Creating an crowd funding application using flutterflow framework for the Lomba Gemastik 2024 Competition, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
     "startDate": "2024-06-12",
     "endDate": "2024-06-22",
-    "link": "https://drive.google.com/drive/folders/1-5SeJgG9ShC5wZRFWzFLpAG8HSSpR3tq?usp=sharing"
+    "link": "https://github.com/ngodeing/mimpi_kita"
   },
   {
     "title": "NoteIn App",
@@ -61,6 +109,6 @@
     "description": "Creating an task manager application using react native library, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
     "startDate": "2023-10-2",
     "endDate": "2023-11-15",
-    "link": "https://drive.google.com/drive/folders/1M9LLqEyPn4pbt4XH1Cxj1X64m7mrbTU_?usp=sharing"
+    "link": "https://github.com/ngodeing/notein-app"
   }
 ]

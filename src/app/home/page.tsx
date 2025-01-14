@@ -12,8 +12,8 @@ export default function Home() {
           <NextButton href="experience">Experience</NextButton>
         </div>
       </div>
-      <div className="w-[200px] lg:w-[400px]">
-        <Image src="/images/gdsc1.png" alt="Taufik Nurrohman" width={400} height={400} />
+      <div className="w-[250px] lg:w-[500px]">
+        <Image src="/images/photo-profile.png" alt="Taufik Nurrohman" width={500} height={500} />
       </div>
     </section>
   );
