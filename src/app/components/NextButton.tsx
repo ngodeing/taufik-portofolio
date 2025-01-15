@@ -8,7 +8,7 @@ export default function NextButton({
   children: React.ReactNode;
 }) {
   return (
-    <Link href={href}>
+    <Link href={href} className="mb-5">
       <span className="shadow-md hover:bg-yellow-400 hover:text-gray-900 text-gray-300 font-semibold lg:py-4 lg:px-8 py-2 px-4 rounded-full lg:text-xl text-md border-2 border-yellow-400 text-center">
         {children}
       </span>
