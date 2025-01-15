@@ -16,7 +16,7 @@ const ProjectDetail = () => {
   }
 
   return (
-    <div className="max-w-4xl mx-auto p-6 space-y-6">
+    <div className="max-w-4xl mx-auto p-6 space-y-6 text-white">
       <h1 className="text-2xl md:text-4xl font-bold text-center">{project.title}</h1>
 
       <div className="flex justify-center">
