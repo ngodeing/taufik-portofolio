@@ -1,114 +1,225 @@
 [
   {
+    "id": 14,
     "title": "Inkterval Company Website",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736848695/wkcp0m5dbivwlvyzcopm.png",
-    "description": "I built a website for the Inkterval company, Inkterval is a company that operates in the arts sector, so I made this website as attractive as possible.",
+    "description": "I built a website for the Inkterval company, Inkterval is a production house based in Jakarta that specialise on creating the right content across the platform, from cinema, television.",
     "startDate": "2024-12-25",
     "endDate": "2025-01-30",
-    "link": "https://inkterval.vercel.app/home"
+    "link": "https://inkterval.vercel.app/home",
+    "techstack": ["Next JS", "React JS", "Javascript", "Tailwind", "CSS"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736848695/wkcp0m5dbivwlvyzcopm.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736907671/vg51kf8t7rkiphbudryc.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736907999/vaat9sm1wczwppknnslc.png"],
+    "media_title": ["Hero Section", "Footer Section","Shapes"],
+    "media_desc": ["I created this Hero Section page very carefully and precisely to match the design that has been made. I also created animations on the components to make them look attractive and then adjusted them so that the display is comfortable to view on all screen sizes.", "I created the footer section according to the design that was provided, I made sure all contacts and company addresses were clearly visible so as not to make things difficult for users.","I created some flat shapes, manually with CSS and added a transition when the user scrolls down, so that it will display the effect of glass fragments."]
   },
   {
+    "id": 13,
     "title": "SkyBound : Your Personal Career Recommendation",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736848149/vpdnykokszvvirrwkgmt.jpg",
     "description": "In the final project at Bangkit Academy, I created a career recommendation application using generative AI created by time machine learning.",
     "startDate": "2024-10-01",
     "endDate": "2024-12-10",
-    "link": "https://github.com/ngodeing/skybound"
+    "link": "https://github.com/ngodeing/skybound",
+    "techstack": ["Kotlin", "Firebase", "Android Studio", "Figma", "XML"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736908407/gvwwupwq1xa42oskydbg.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736908588/euvcngcit1yzzfrxdsvu.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736908855/oulw2ql4sccdj0xv39a0.png"],
+    "media_title": ["Dashboard Activity", "Roadmap Activity","Course and Quiz Activity"],
+    "media_desc": ["I created a dashboard page so that users can monitor their status, such as what stage they are at and how many points they have earned.", "I created the footer section according to the design that was provided, I created a roadmap page according to the available API data, this roadmap is determined based on user data that has been entered into the AI ​​model, in this roadmap there are materials and quizzes that can be done to get points.","I created a course page that was obtained according to the roadmap, this page was created so that users can understand the roadmap they are taking, then there is a quiz to evaluate what they have read."]
   },
   {
+    "id": 12,
     "title": "Star Access Customer App",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736847229/br0noeopd7zr8xd3bnhx.jpg",
     "description": "Developing the Star Access Company application. This application was created to make it easier for customers to order home internet and monitor internet speed status.",
     "startDate": "2024-10-02",
     "endDate": "2025-08-01",
-    "link": "#"
+    "link": "#",
+    "techstack": ["Kotlin", "Android Studio", "Figma", "XML"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736909212/hp72i7mzmbpimad6bqro.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736909459/zpxggscwuogbj16cdhgb.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736909683/ryrbmbkntdmtpa9l4fxs.png"],
+    "media_title": ["Authentication Activity", "Dashboard and List Product Activity","Payment Activity"],
+    "media_desc": ["I created an authentication page, this page is used when the user first enters the application, I created this page according to the design that has been provided", "I created a dashboard page, this page is used by users to monitor the status of their internet quota and speed, besides that I created a product list page, this page is used by users to have the internet package they want.","I created a payment page, with several payment options and a confirmation page to reassure the user, after success there is a payment status page that says the payment was successful."]
   },
   {
+    "id": 11,
     "title": "LOGEE Registration",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736846635/n6vllc58mdhgz83qilxm.png",
     "description": "In the 2024 Digistar Class program held by Telkom Indonesia, I created a final project, namely re-creating the LOGEE registration UI so that it looks minimalist and makes users comfortable viewing it.",
     "startDate": "2024-08-07",
     "endDate": "2024-09-22",
-    "link": "https://logee-regristation.vercel.app/home"
+    "link": "https://logee-regristation.vercel.app/home",
+    "techstack": ["Next Js", "React JS", "Tailwind", "Javascript"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736910530/n8dos1nk8g37v7hknk0j.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736910386/nxcbs0cbcvnx6aiyhrjv.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736910462/elfyauo5mecwgwvb9co3.png"],
+    "media_title": ["Additional Registration", "Registration Page","Verification OTP"],
+    "media_desc": ["I created this page according to the design provided, there are several forms such as filling in the address and company name and others. This registration page has 3 stages to completion.", "I created an easy and simple registration page so that users don't have any difficulties when they register for the first time.","After registering, the user will be directed to the OTP verification page. This page receives 5 codes that will be sent to the user and must be entered into the form."]
   },
   {
+    "id": 10,
     "title": "Proposalify",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736842770/w9kcqrcerpqhegxckccd.png",
     "description": "Create a website for collecting proposals and their acceptance status to make it easier for students to submit proposals to lecturers.",
     "startDate": "2024-07-10",
     "endDate": "2024-10-22",
-    "link": "https://proposalify-eta.vercel.app"
+    "link": "https://proposalify-eta.vercel.app",
+    "techstack": ["Next Js", "React JS", "Tailwind", "Javascript", "MongoDB","Express JS"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736914377/nmognjcqb6udottkwqxh.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736914402/ijsuideyc1fmejrhuupk.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736914463/b96s9qi8yngs6peckhbd.jpg"],
+    "media_title": ["Student Dashboard", "Proposal Form","Admin Dashboard"],
+    "media_desc": ["I created a user dashboard so that users can monitor proposals that have been made and see whether their status has been accepted or not.", "On the proposal form page, users can create proposals that can be saved, deleted, or sent directly to the admin and if approved will be sent directly to the lecturer, actually I also created a lecturer dashboard to review proposals but because now the backend has stopped so I can't access the page anymore","I created an admin dashboard on this page, the admin can see which users have submitted proposals and see first, if they agree, the proposal can be sent immediately and the admin can also see the total proposals and add lecturers."]
   },
   {
+    "id": 9,
     "title": "Easy Score",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1736842243/zpyq2sfykls2k31r0cjb.jpg",
     "description": "Creating an optimized automatic essay scoring application using text generative AI for the Lomba DIMAS-TI Inovasi Teknologi Mutakhir Competition 2024, I developed the application's architecture, implemented the AI model integration for essay evaluation, and designed the user interface for seamless interaction.",
     "startDate": "2024-12-08",
     "endDate": "2024-12-20",
-    "link": "https://github.com/ngodeing/easy-score-app"
+    "link": "https://github.com/ngodeing/easy-score-app",
+    "techstack": ["Flutter", "FlutterFlow", "Firebase", "Figma"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736914988/wswfdjkrs0ozdm2e4hk8.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736915013/kec47wwqx68ubzjonk8q.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736915036/quh43tvpbcbalxo0tbr7.jpg"],
+    "media_title": ["Authentication Activity", "Create Quiz Activity","Essay Evaluation Activity"],
+    "media_desc": ["On the authentication page there is a login or register option, on the login page it will be filtered if you log in as a student then you will go to the student page and if you log in as a teacher then you will go to the teacher page, then on the register page there is an option if you want to be a teacher or student.", "On the quiz creation page, teachers can create a name, date and start time for the quiz, then teachers can also add questions and the time required to complete them.","On the essay assessment page, the essay that has been completed will be corrected by the AI ​​model that we have embedded and several scores will appear per question answered. Not only that, the AI ​​model will also provide feedback on the student's answers."]
   },
   {
+    "id": 8,
     "title": "LKTIM Dashboard",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353442/mqwhlucatsrlo9nzcw4t.png",
     "description": "Creating a dashboard website for judges to evaluate student scientific paper competitions. I designed user interfaces, integrating evaluation criteria, and implementing secure user authentication.",
     "startDate": "2024-06-01",
     "endDate": "2024-07-15",
-    "link": "https://admin-lktim-2024.vercel.app/"
+    "link": "https://admin-lktim-2024.vercel.app/",
+    "techstack": ["Next JS", "React JS", "Tailwind", "MongoDB", "Javascript"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736915781/k6eajnjghvjh4mbeyson.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736915806/pvku5hsj0jc3uzhapbjz.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736915835/crm6buynj9syvcakrp9n.png"],
+    "media_title": ["Committee Dashboard", "Paper List Status","Evaluate Paper"],
+    "media_desc": ["On this page, the committee can see how many papers there are and how many papers have been assessed or not. With this dashboard, it is hoped that the committee can find it easier to correct participants' papers.", "On the paper status list page, the committee can see all papers starting from the title, from which university and the status whether it has been assessed or not.","If it has not been assessed, on this page the committee will assess the participant's paper, a preview of the participant's paper will be displayed on the left and the assessment form that has been given by the jury on the right, then the committee just clicks send and the paper will be assessed."]
   },
   {
+    "id": 7,
     "title": "Brain Essay App",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353669/rlqqxvcm5hnr5galilff.png",
     "description": "Creating an automatic essay scoring application using text generative AI for the Lomba Inovasi Digital Mahasiswa 2024 Competition, I developed the application's architecture, implemented the AI model integration for essay evaluation, and designed the user interface for seamless interaction.",
     "startDate": "2024-05-20",
     "endDate": "2024-06-13",
-    "link": "https://github.com/ngodeing/brain-essay"
+    "link": "https://github.com/ngodeing/brain-essay",
+    "techstack": ["Flutter", "FlutterFlow", "Firebase", "Figma"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736916237/pdzy4tdqsbsdaxn3wzzl.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736916286/f2kxga6elridfkhw8ndo.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736916324/vwlvslvecidmuzvsihcq.png"],
+    "media_title": ["Authentication Activity", "Create Quiz Activity","Essay Evaluation Activity"],
+    "media_desc": ["On the authentication page there is a login or register option, on the login page it will be filtered if you log in as a student then you will go to the student page and if you log in as a teacher then you will go to the teacher page, then on the register page there is an option if you want to be a teacher or student.", "On the quiz creation page, teachers can create a name, date and start time for the quiz, then teachers can also add questions and the time required to complete them.","On the essay assessment page, the essay that has been completed will be corrected by the AI ​​model that we have embedded and several scores will appear per question answered. Not only that, the AI ​​model will also provide feedback on the student's answers."]
   },
   {
+    "id": 6,
     "title": "Raheela Pemuda Langit",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721353881/gt4zgxo0bofwhnpg5xt6.png",
     "description": "Developed and maintained the Raheela Pemuda Langit organization website, implementing design improvements, content updates, and functionality enhancements to optimize user experience and engagement.",
     "startDate": "2023-10-11",
     "endDate": "2023-11-20",
-    "link": "https://official-raheela-pemuda-langit.vercel.app"
+    "link": "https://official-raheela-pemuda-langit.vercel.app",
+    "techstack": ["Next JS", "React JS", "Tailwind", "Javascript"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736917484/forpzm6dawzuoofbobvi.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736917513/jlocjjh8ybe4yvpb1p17.png"],
+    "media_title": ["Event Component", "Event Page"],
+    "media_desc": ["I created an event component, this event will appear when there is a list of events and in this list only the 5 newest ones will appear, then there is a button to direct to other events.", "On the event page, there is a list of all available events and there is a search column to quickly search for events."]
   },
   {
+    "id": 5,
     "title": "Okines Arcade Game",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721354148/b8gazc63c49prwyj9kdr.png",
     "description": "Developed an arcade game for Olimpiade Kimia UNNES 2023 using the GDevelop game engine.",
     "startDate": "2023-07-01",
     "endDate": "2023-10-20",
-    "link": "https://projects.taufiknurrohman.my.id/game/index.html"
+    "link": "https://projects.taufiknurrohman.my.id/game/index.html",
+    "techstack": ["Game Develop App","Programming Algorithm"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918029/xfnzjzwmrtrfzxilxcst.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918158/sgcmjoaji32dedxm4pxu.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918227/xs71zml1r0i3pccn6ytt.png"],
+    "media_title": ["Map Design for Every Level", "Main Character Logic","Enamy Character Logic"],
+    "media_desc": ["I made the design of the entire map level, starting from obstacles to enemy placement and questions, it wasn't easy to make this because the level of difficulty had to be adjusted.", "I created character logic, for example when a character is hit by an enemy, their blood will decrease by one and when the character's blood runs out, the game ends. Likewise, if the character gets a question, they will be redirected to the question-solving page.","For the enemy logic, I made it so that when the main character is hit by an enemy, their blood will decrease, there are several types of enemies that move fast and slow, and there are also types of enemies that push the main character, and the most overpowered is the final boss where if stepped on, they will immediately be K.O."]
   },
   {
+    "id": 4,
     "title": "Automatic Barcode Generator",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721354299/px6qnbrsgigjwvoukhkd.png",
     "description": "Developed and launched an automatic barcode generator website, allowing users to generate barcodes 80% instantly",
     "startDate": "2023-06-12",
     "endDate": "2023-07-15",
-    "link": "https://barcode.taufiknurrohman.my.id/"
+    "link": "https://barcode.taufiknurrohman.my.id/",
+    "techstack": ["HTML","CSS","Javascript","JS Barcode"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918526/joenr2h50bvnsqd7w6pl.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918526/yz0qeeywzbg7psh3mqem.png",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736918527/vy7v8h4zvz1ycqswc9jb.png"],
+    "media_title": ["Many Barcode Variants", "PDF Download","Image Download"],
+    "media_desc": ["I created a barcode generator website to make it easier for users when they want to convert from text or numbers to barcodes with several variations.", "There is a PDF download option that can directly convert it to PDF and will be directly saved on your device.","There is an image download option that can directly convert it into an image and will be directly saved on your device."]
   },
   {
+    "id": 3,
     "title": "Zebra Printing Label",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721356901/xlbm0dx6m23j656oklif.png",
     "description": "Developed and implemented a Windows Forms application for zebra label printing. I designed the user-friendly interface, and integrated zebra printer libraries. Achieved improvements in printing efficiency and accuracy.",
     "startDate": "2023-06-12",
     "endDate": "2023-07-15",
-    "link": "https://drive.google.com/file/d/1KL_670apFDMMIr_p9SKXCEbLBkRXKlHZ/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1KL_670apFDMMIr_p9SKXCEbLBkRXKlHZ/view?usp=sharing",
+    "techstack": ["C#","Visual Studio","Zebra SDK"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736919017/xcptc7gm1mvb0vqaojeo.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736919017/dqwg0z4evb63rvb7508m.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736919017/oj3co7nt9nteasiz8iz4.jpg"],
+    "media_title": ["Connecting To Zebra Printer", "Test Quality Print","Final Result"],
+    "media_desc": ["I tried to connect the application to the zebra printer using the SDK according to the printer available in the office, after reading it, I saw the response from the printer whether it responded or not.", "After the printer responded to the application, I tried a test print according to what was on the application display. In the initial attempt, it seemed to fail, such as having to adjust the thickness of the lines and letters.","After I tried repeatedly, and determined the appropriate print label size, in the end the results were satisfactory and could be used for production."]
   },
   {
+    "id": 2,
     "title": "Mimpi Kita App",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721469492/zyl4uzmd40snarnov87o.png",
     "description": "Creating an crowd funding application using flutterflow framework for the Lomba Gemastik 2024 Competition, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
     "startDate": "2024-06-12",
     "endDate": "2024-06-22",
-    "link": "https://github.com/ngodeing/mimpi_kita"
+    "link": "https://github.com/ngodeing/mimpi_kita",
+    "techstack": ["Flutter", "FlutterFlow", "Firebase"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921546/ani22ehkyie0hasaofyz.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921546/o7f9t052cn4zibg6zbab.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921547/b5oaxfr3dviquwanomc6.jpg"],
+    "media_title": ["Home Activity", "Donation Activity","Profile Activity"],
+    "media_desc": ["On the home page, users can see the available donations, there are columns based on popularity and newest levels, there is also a search column if users want to search more specific", "On the donation page, users can make donations by entering the nominal amount and making payment according to the payment method, then the fundraising will be filled automatically.","On the profile page, users can see the donations they have made and users can also edit their profiles, such as changing profiles and logging out of accounts."]
   },
   {
+    "id": 1,
     "title": "NoteIn App",
     "image": "https://res.cloudinary.com/dhf1recqk/image/upload/v1721360451/t6hp1nhwhivesecettqi.png",
     "description": "Creating an task manager application using react native library, I developed the application's architecture, implemented the data integration, and designed the user interface for seamless interaction",
     "startDate": "2023-10-2",
     "endDate": "2023-11-15",
-    "link": "https://github.com/ngodeing/notein-app"
+    "link": "https://github.com/ngodeing/notein-app",
+    "techstack": ["Flutter", "FlutterFlow", "Firebase"],
+    "media":[
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921175/pz8xh08qroy3fhrytgnd.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921175/yvtkmv4pjyoimwlgzclt.jpg",
+      "https://res.cloudinary.com/dhf1recqk/image/upload/v1736921175/ldswuegzctom91uiuoqw.jpg"],
+    "media_title": ["Home and Notes Activity", "Create and Edit Notes","Calendar Integration"],
+    "media_desc": ["On the home page, users can monitor how many notes have been created, and see how many notes have gone into the trash. Then, on the note list page, users can select all or several notes to move to the trash, click once to edit a note.", "On the edit note page, users can enter the title and description they want to include. There is no limit to how much users want to write in the description. Then, when finished, click the check mark to save the note.","Apart from that, when editing a note there is a calendar icon which when clicked will direct you to the device calendar and the user only needs to input the reminder according to what they want, because the event title will be filled in automatically."]
   }
 ]
