@@ -43,7 +43,7 @@ const ProjectDetail = () => {
       </div>
 
       <div>
-        <h2 className="text-2xl font-semibold mb-4">Media Gallery:</h2>
+        <h2 className="text-2xl font-semibold mb-4">Project Documentation:</h2>
         {project.media?.map((media, index) => (
           <div
             key={index}
